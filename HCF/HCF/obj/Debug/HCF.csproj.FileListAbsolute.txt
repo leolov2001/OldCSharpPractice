@@ -1,0 +1,6 @@
+D:\Leo's Coding\HCF\HCF\bin\Debug\HCF.exe.config
+D:\Leo's Coding\HCF\HCF\bin\Debug\HCF.exe
+D:\Leo's Coding\HCF\HCF\bin\Debug\HCF.pdb
+D:\Leo's Coding\HCF\HCF\obj\Debug\HCF.csproj.CoreCompileInputs.cache
+D:\Leo's Coding\HCF\HCF\obj\Debug\HCF.exe
+D:\Leo's Coding\HCF\HCF\obj\Debug\HCF.pdb

@@ -1,0 +1,6 @@
+D:\Leo's Coding\6\6\bin\Debug\6.exe.config
+D:\Leo's Coding\6\6\bin\Debug\6.exe
+D:\Leo's Coding\6\6\bin\Debug\6.pdb
+D:\Leo's Coding\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+D:\Leo's Coding\6\6\obj\Debug\6.exe
+D:\Leo's Coding\6\6\obj\Debug\6.pdb

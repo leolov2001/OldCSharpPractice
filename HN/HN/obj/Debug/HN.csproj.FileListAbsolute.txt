@@ -1,0 +1,7 @@
+D:\Leo's Coding\HN\HN\bin\Debug\HN.exe.config
+D:\Leo's Coding\HN\HN\bin\Debug\HN.exe
+D:\Leo's Coding\HN\HN\bin\Debug\HN.pdb
+D:\Leo's Coding\HN\HN\obj\Debug\HN.csprojAssemblyReference.cache
+D:\Leo's Coding\HN\HN\obj\Debug\HN.csproj.CoreCompileInputs.cache
+D:\Leo's Coding\HN\HN\obj\Debug\HN.exe
+D:\Leo's Coding\HN\HN\obj\Debug\HN.pdb

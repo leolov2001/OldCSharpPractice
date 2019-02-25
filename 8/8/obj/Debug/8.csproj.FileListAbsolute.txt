@@ -1,0 +1,7 @@
+D:\Leo's Coding\8\8\bin\Debug\8.exe.config
+D:\Leo's Coding\8\8\bin\Debug\8.exe
+D:\Leo's Coding\8\8\bin\Debug\8.pdb
+D:\Leo's Coding\8\8\obj\Debug\8.csprojAssemblyReference.cache
+D:\Leo's Coding\8\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+D:\Leo's Coding\8\8\obj\Debug\8.exe
+D:\Leo's Coding\8\8\obj\Debug\8.pdb

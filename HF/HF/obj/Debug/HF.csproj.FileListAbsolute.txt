@@ -1,0 +1,7 @@
+D:\Leo's Coding\HF\HF\obj\Debug\HF.csprojAssemblyReference.cache
+D:\Leo's Coding\HF\HF\obj\Debug\HF.csproj.CoreCompileInputs.cache
+D:\Leo's Coding\HF\HF\bin\Debug\HF.exe.config
+D:\Leo's Coding\HF\HF\bin\Debug\HF.exe
+D:\Leo's Coding\HF\HF\bin\Debug\HF.pdb
+D:\Leo's Coding\HF\HF\obj\Debug\HF.exe
+D:\Leo's Coding\HF\HF\obj\Debug\HF.pdb

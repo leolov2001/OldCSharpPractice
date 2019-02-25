@@ -1,0 +1,7 @@
+D:\Leo's Coding\H2A\H2A\obj\Debug\H2A.csproj.CoreCompileInputs.cache
+D:\Leo's Coding\H2A\H2A\bin\Debug\H2A.exe.config
+D:\Leo's Coding\H2A\H2A\bin\Debug\H2A.exe
+D:\Leo's Coding\H2A\H2A\bin\Debug\H2A.pdb
+D:\Leo's Coding\H2A\H2A\obj\Debug\H2A.csprojAssemblyReference.cache
+D:\Leo's Coding\H2A\H2A\obj\Debug\H2A.exe
+D:\Leo's Coding\H2A\H2A\obj\Debug\H2A.pdb

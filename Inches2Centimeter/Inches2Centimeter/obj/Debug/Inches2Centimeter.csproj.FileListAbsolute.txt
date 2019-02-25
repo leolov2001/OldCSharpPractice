@@ -1,0 +1,7 @@
+D:\Leo's Coding\Inches2Centimeter\Inches2Centimeter\obj\Debug\Inches2Centimeter.csprojAssemblyReference.cache
+D:\Leo's Coding\Inches2Centimeter\Inches2Centimeter\obj\Debug\Inches2Centimeter.csproj.CoreCompileInputs.cache
+D:\Leo's Coding\Inches2Centimeter\Inches2Centimeter\bin\Debug\Inches2Centimeter.exe.config
+D:\Leo's Coding\Inches2Centimeter\Inches2Centimeter\bin\Debug\Inches2Centimeter.exe
+D:\Leo's Coding\Inches2Centimeter\Inches2Centimeter\bin\Debug\Inches2Centimeter.pdb
+D:\Leo's Coding\Inches2Centimeter\Inches2Centimeter\obj\Debug\Inches2Centimeter.exe
+D:\Leo's Coding\Inches2Centimeter\Inches2Centimeter\obj\Debug\Inches2Centimeter.pdb
